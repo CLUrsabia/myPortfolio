@@ -30,8 +30,8 @@
 }
 
 body{
-  background: #343a40;
-  color: #fff;
+  background: var(--dark);
+  color: var(--white);
 }
 nav ul {
     display: flex;         /* Places items in a row */
