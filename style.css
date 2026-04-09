@@ -35,11 +35,13 @@ body{
   
 }
 nav ul {
-  display: flex;         /* Places items in a row */
-  list-style-type: none; /* Removes the bullets */
-  margin: 0;
-  padding: 0;
-  gap: 20px;            /* Adds space between your links */
+    display: flex;         /* Places items in a row */
+    list-style-type: none; /* Removes the bullets */
+    margin: 0;
+    padding: 0;
+    gap: 20px;            /* Adds space between your links */
+    background: var(--dark);
+    color: var(--white);
 }
 
 nav a {
