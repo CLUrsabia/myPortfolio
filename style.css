@@ -30,9 +30,8 @@
 }
 
 body{
-  background: var(--dark);
-  color: var(--white);
-  
+  background: #343a40;
+  color: #fff;
 }
 nav ul {
     display: flex;         /* Places items in a row */
@@ -40,8 +39,8 @@ nav ul {
     margin: 0;
     padding: 0;
     gap: 20px;            /* Adds space between your links */
-    background: var(--dark);
-    color: var(--white);
+    background: #343a40;
+    color: #fff;
 }
 
 nav a {
