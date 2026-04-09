@@ -1,1 +1,13 @@
+nav ul {
+  display: flex;         /* Places items in a row */
+  list-style-type: none; /* Removes the bullets */
+  margin: 0;
+  padding: 0;
+  gap: 20px;            /* Adds space between your links */
+}
 
+nav a {
+  text-decoration: none; /* Removes the underline from links */
+  color: #333;           /* Set your preferred link color */
+  font-weight: bold;
+}
